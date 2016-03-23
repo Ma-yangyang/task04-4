@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #3ac379;
+}
+
+/*承载层样式*/
+#wrapper {
+    width: 1002px;
+    margin: 10px auto;
+    background: #ffffff;
+    border-radius: 60px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    margin: 10px auto 50px;
+    background: #3ac877;
+    color: #ffffff;
+    width: 250px;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0 0 5px #3ac877;
+}
+
+h4 {
+    color: #464646;
+}
+/*列表样式*/
+ol {
+    text-align: left;
+    width: 85%;
+    margin: 20px auto;
+}
+
+ol li {
+    margin-top: 15px;
+}
+
+ol li p {
+    font-size: 14px;
+    padding: 10px;
+    line-height: 30px;
+    background: #eeeeee;
+    margin-top: 10px;
+    border-radius: 10px;
+}
